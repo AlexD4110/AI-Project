@@ -1,0 +1,22 @@
+# Ignore MacOS system files
+.DS_Store
+
+# Ignore virtual environment directories
+.venv/
+env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment files
+.env
+
+# Ignore temporary files created by VS Code
+tempCodeRunnerFile.py
+
+git add .gitignore
+git commit -m "Add .gitignore to ignore unnecessary files"

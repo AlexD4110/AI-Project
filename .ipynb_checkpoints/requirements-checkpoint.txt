@@ -3,7 +3,6 @@ ffmpeg-python
 openai
 python-dotenv
 shiny
-git+https://github.com/jcheng5/shinymedia
 pandas
 matplotlib
 ollama
